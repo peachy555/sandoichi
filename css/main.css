@@ -1,0 +1,77 @@
+body{
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#wrapper {
+  background-color: #f5f5dc;
+}
+
+.navWrapper {
+  text-align: center;
+}
+
+.menuWrapper {
+  padding: 5px 0;
+  vertical-align: middle;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.menuElem {
+  display: inline-block;
+}
+
+#noticeBoard {
+  text-align: center;
+  border: 1px solid black;
+  width: 100%;
+  height: 100px;
+}
+
+#menu {
+  text-align: center;
+  border: 1px solid black;
+  width: 100%;
+  height: 200px;
+}
+
+.socialWrapper {
+  text-align: center;
+}
+
+.socialElem {
+  display: inline-block;
+}
+
+.contactWrapper {
+  border: 1px solid black;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.gmap {
+  display: inline-block;
+  border: 1px solid black;
+  vertical-align: middle;
+  width: 50%;
+}
+
+.contactDetail {
+  display: inline-block;
+  border: 1px solid black;
+  padding-left: 10px;
+  vertical-align: middle;
+}
+
+.socialElem img {
+  height: 50px;
+  width: 50px;
+}

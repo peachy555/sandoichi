@@ -1,0 +1,29 @@
+.cMenuSelector{
+  text-align: center;
+}
+
+.cMenuSelectorItem img {
+  padding: 0;
+  height: 150px;
+}
+.cMenuSelectorItem {
+  padding: 0;
+  display: inline-block;
+  border: 1px solid black;
+  width: 30%;
+}
+
+.cMenuItemWrapper {
+  border: 1px solid black;
+  margin: 20px;
+  padding: 5px;
+  text-align: center;
+}
+
+.cMenuItem {
+  width: 100px;
+  height:100px;
+  border: 1px solid black;
+  display: inline-block;
+
+}
